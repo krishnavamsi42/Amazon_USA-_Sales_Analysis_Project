@@ -1,4 +1,8 @@
+---
 # Amazon_USA-_Sales_Analysis_Project
+### **Difficulty Level: Advanced**
+
+---
 <img src="https://github.com/krishnavamsi42/Amazon_USA-_Sales_Analysis_Project/blob/main/Amazon_logo.webp" alt="Amazon Logo" width="750" height="350"/>
 
 ## **Project Overview**
