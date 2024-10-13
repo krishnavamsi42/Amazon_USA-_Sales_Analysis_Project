@@ -16,6 +16,7 @@ In this I have used 9 tables and the ERD diagram as shown below.
 
 ---
 <img src="https://github.com/krishnavamsi42/Amazon_USA-_Sales_Analysis_Project/blob/main/Amazon%20ERD.png" alt="Amazon ERD diagram" width="850" height="500"/>
+
 ## **Database Setup & Design**
 
 ### **Schema Structure**
